@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "ten":"Lê Xuân Khúc",
+        "sdt":"0378344936",
+        "quyen":1
+    },
+    {
+        "id":2,
+        "ten":"Recardo Nguyễn",
+        "sdt":"037834212",
+        "quyen":2
+    },
+    {
+        "id":3,
+        "ten":"Lê Bảo Bình",
+        "sdt":"236128212",
+        "quyen":3
+    }
+    
+    
+]
